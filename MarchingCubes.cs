@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class MarchingSquares : MonoBehaviour
+public class MarchingCubes : MonoBehaviour
 {
     public int Size, Ps;
 	[Range(0, 100)] public float FillPercent;
