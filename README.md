@@ -2,4 +2,4 @@
 
 
 
-This is where you will find all of the scripts that are cade on the Mr Developer Youtube channel.
+This is where you will find all of the scripts that are cade on the Mr Developer Youtube channel. Subscribe (if you want).
