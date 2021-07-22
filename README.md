@@ -2,4 +2,4 @@
 
 
 
-This is where you will find all of the scripts that are cade on the Mr Developer Youtube channel. Subscribe (if you want). I hope you learn something new from my channel. Thankyou for being here
+This is where you will find all of the scripts that are made  on the Flaroon Youtube channel. Subscribe (if you want). I hope you learn something new from my channel. Thankyou for being here
