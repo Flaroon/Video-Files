@@ -6,7 +6,7 @@ This is where you will find all of the scripts that are made on the Flaroon Yout
 
 > Its harder to read code than write it
 
-Anyway enough of the stupid quotes I just want to Thankyou for checking out my [Youtube Channel!](http://youtube.com/Flaroon) Make sure to star this repo and subscribe to me on youtube! Again I just want to thank you for supporting me in this journey and valuing my content.
+Anyway enough of the stupid quotes I just want to Thankyou for checking out my [Youtube Channel](http://youtube.com/Flaroon)! Make sure to star this repo and subscribe to me on youtube! Again I just want to thank you for supporting me in this journey and valuing my content.
 
 
 **Good Luck In Your Game Dev Future!**
