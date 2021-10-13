@@ -1,4 +1,8 @@
-# Video-Files
+# Flaroon Video Code 
 
 
-This is where you will find all of the scripts that are made  on the Flaroon Youtube channel. Subscribe (if you want). I hope you learn something new from my channel. Thankyou for being here
+This is where you will find all of the scripts that are made on the Flaroon Youtube channel. If any of the code confuses you remember ...
+
+> Its harder to read code than write it
+
+
