@@ -6,6 +6,8 @@ This is where you will find all of the scripts that are made on the Flaroon Yout
 
 > Its harder to read code than write it
 
+(That quote is just cringe. TBH I just wanted to try out github MarkDown)
+
 So a Little about me, Im a :
 
 <br/>
