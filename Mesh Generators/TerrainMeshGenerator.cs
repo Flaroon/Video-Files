@@ -18,6 +18,10 @@ public class TerrainMeshGenerator : MonoBehaviour
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
     }
+    
+    public void OnValidate(){
+        GenerateMap();
+    }
 
     public void GenerateMap()
     {
